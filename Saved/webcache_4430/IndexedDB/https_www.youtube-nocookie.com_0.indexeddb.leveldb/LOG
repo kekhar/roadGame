@@ -1,0 +1,6 @@
+2023/05/14-16:59:25.626 2ac8 Creating DB F:/roadGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/05/14-16:59:25.676 2ac8 Reusing MANIFEST F:/roadGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/14-17:03:57.276 3288 Level-0 table #5: started
+2023/05/14-17:03:57.376 3288 Level-0 table #5: 1167 bytes OK
+2023/05/14-17:03:57.403 3288 Delete type=0 #3
+2023/05/14-17:03:57.406 3288 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
